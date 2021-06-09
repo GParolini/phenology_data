@@ -9,7 +9,7 @@ An interactive map of the German phenological stations is in output/images/pheno
 
 
 The analysis focuses on the data available for winter barley.
-![](/output/images/harvest_lin_regr.jpg)
+![](https://github.com/GParolini/phenology_data/blob/master/output/images/harvest_lin_regr.jpg)
 Linear regression models suggest that the growing season of winter barley has shortened in recent years and the barley harvest is beginning earlier according to the calendar. Although the overall trend is recognisable, more refined analyses are difficult in this case because:
 1. the data do not contain information on the plant varieties and whether they are consistent over time within and across stations; 
 2. there is no weather information (average temperature, sunlight, etc.) that can help to isolate the seasonal weather from the climate trend.
