@@ -7,10 +7,6 @@
 *.csv
 *.xlsx
 
-#specific files
-eda_stefan.py
-Stefan.ipynb
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -148,6 +144,7 @@ dmypy.json
 #Large files
 .jar
 *.csv
+*.mp4
 
 
 .ipynb_checkpoints
